@@ -23,6 +23,9 @@
   ],
   "author": "Ben Michel (obensource)",
   "license": "MIT",
+  "bin": {
+    "deep-work": "./index.js"
+  },
   "bugs": {
     "url": "https://github.com/obensource/deep-work/issues"
   },
