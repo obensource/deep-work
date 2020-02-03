@@ -1,0 +1,33 @@
+{
+  "name": "deep-work",
+  "version": "0.0.1",
+  "description": "An organizational tool for ranking your weekly priorities around the concept of 'deep work'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obensource/deep-work.git"
+  },
+  "keywords": [
+    "organization",
+    "deep",
+    "work",
+    "focus",
+    "priority",
+    "ranking",
+    "cli",
+    "node",
+    "js"
+  ],
+  "author": "Ben Michel (obensource)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obensource/deep-work/issues"
+  },
+  "homepage": "https://github.com/obensource/deep-work#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
