@@ -1,4 +1,4 @@
-<img src="./assets/deep-work.png" width="450px">
+<img src="./assets/deep-work.png" width="550px">
 
 ## Deep Work Prioritizer
 A simple personal CLI dialogue that can be used for ranking weekly work priorities around the concept of '[deep work' vs. 'shallow work'](calnewport.com/books/deep-work/). It attemps to give an estimate of the actual time that can be allocated for doing your weekly deep and shallow work based on common time factors like meetings, short-weeks, etc.
