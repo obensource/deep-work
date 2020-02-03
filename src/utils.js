@@ -59,7 +59,7 @@ const printPriorities = (prioritiesArray, allottedTime) => {
 }
 
 const printWeeklyPriorities = (prioritiesArray, timeFactorsObject) => {
-  const companyPriorities = prioritiesArray.filter(i => i.bucket === 'employer')
+  const companyPriorities = prioritiesArray.filter(i => i.bucket === 'company')
   const ossPriorities = prioritiesArray.filter(i => i.bucket === 'oss')
   const personalPriorities = prioritiesArray.filter(i => i.bucket === 'personal')
   const deepWork = prioritiesArray.filter(i => i.type === 'deep')
@@ -71,7 +71,7 @@ const printWeeklyPriorities = (prioritiesArray, timeFactorsObject) => {
 
   console.log(`\x1b[0m`, `\n### PRIORITIES FOR THIS WEEK BY BUCKET ###`)
 
-  console.log(`\n**** COMPANY ORIENTED ****`)
+  console.log(`\n**** COMPANY ****`)
   printPriorities(companyPriorities)
 
   console.log(`\n**** OPEN SOURCE ****`)

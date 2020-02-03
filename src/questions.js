@@ -11,7 +11,7 @@ const rankingQuestions = [
   'is fundamental to your current personal strategy and roadmap.',
   'is fundamental to the current strategy and roadmap of your company (or the company you wish to work for).',
   'will deliver a competative advantage for you, and help you stand out in your space.',
-  'will reduce your operational costs and/or increase our revenues.',
+  'will reduce operational costs and/or increase revenues.',
   'will increase user satisfaction (your partners, the public).',
   'will increase your satisfaction in your job.',
   'will affect the continuity of your company (or the company you wish to work for) if it\'s not completed.',
