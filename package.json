@@ -1,6 +1,6 @@
 {
   "name": "deep-work-prioritizer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An organizational tool for ranking your weekly priorities around the concept of 'deep work'",
   "main": "index.js",
   "scripts": {
